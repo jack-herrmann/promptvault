@@ -1,0 +1,7 @@
+# Your prompts: never commit them.
+vault/
+data.noindex/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json
